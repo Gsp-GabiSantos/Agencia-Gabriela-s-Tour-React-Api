@@ -1,0 +1,77 @@
+
+.cards-cadastros{
+    padding: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.card-int{
+    background:#F89C32;
+    width: 50%;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 50px;
+    
+}
+.labels{
+    border-radius: 10px;
+}
+.card-int form{
+    display: flex;
+    border-radius: 10px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card-int form input{
+    width: 80%;
+}
+
+.card-int .btn{
+    align-items: center;
+    justify-content: center;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    max-width: 300px;
+    border-radius: 10px;
+    background: rgb(255, 255, 255);
+}
+
+.divCard{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.imagemAltered{
+    border-radius: 10px;
+    width: 50%;
+}
+
+
+
+
+.botao {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+     
+}
+
+
+.cards-cadastros .labels{
+    font-weight: bold;
+    font-size: 15px;
+
+}
+
+.fontelabel{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+
